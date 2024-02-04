@@ -1,0 +1,35 @@
+body {
+    background-color: bisque;
+}
+
+.heading {
+    text-align: center;
+}
+
+.first-card {
+    border: 5px double brown; display: inline-block; margin: 5px; padding: 5px;
+}
+.second-card {
+    border: 5px solid black; display: inline-block; margin: 5px; padding: 3px;
+}
+
+.image {
+    float: left;
+    width: 400px;
+    height: 400px;
+    padding-right: 7px;
+}
+.image2 {
+    width: 400px;
+    height: 400px;
+}
+
+.card-detail {
+    font-weight: 500;
+    display: inline-block; width: 400px;
+    text-align: justify;
+}
+
+.info b {
+    font-weight: bolder;
+}
